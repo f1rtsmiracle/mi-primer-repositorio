@@ -1,1 +1,2 @@
-Este es mi segundo commit pero modificado
+Hola Git
+Ahora estoy aprendiendo Git
